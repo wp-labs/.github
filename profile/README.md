@@ -22,7 +22,7 @@ Warpparse is faster than vector.
 ## 👩‍💻 Useful Resources
 * 📘 [User Guide](https://wp-labs.github.io/wp-docs/)
 * 📦 [WarpPase Download](https://github.com/wp-labs/warp-parse/releases)
-* 🚀 [Application Examples](https://github.com/wp-labs/wp-examples) 
+* 🚀 [Examples](https://github.com/wp-labs/wp-examples) 
 * 💬 Community Discussions: Exchange ideas, ask questions, or share experiences here
 
 
