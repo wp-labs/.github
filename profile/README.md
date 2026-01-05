@@ -6,9 +6,7 @@
 
 ## WarpParse
 Warpparse is faster than vector.
-(file->blackhole)
-<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/b62f2a14-a1dd-490d-8323-280860379479" />
-
+![vector_wp_2](https://github.com/user-attachments/assets/976fc899-243e-49ef-b1c4-936210bbfb11)
 
 
 ##  🌈 Contribution Guidelines
