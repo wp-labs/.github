@@ -5,8 +5,14 @@
   WpLabs 是 WarpParse 背后的工作室，我们专注于打造业界领先的 ETL 引擎，致力于解决企业日益增长的日志解析与治理需求，帮助客户更轻松地实现数据价值的提取与整合。
 
 ## WarpParse
+
+### install
+```bash
+curl  -sSf https://get.warpparse.ai/setup.sh | sh
+```
 Warpparse is faster than vector.
 ![vector_wp_2](https://github.com/user-attachments/assets/976fc899-243e-49ef-b1c4-936210bbfb11)
+
 
 
 ##  🌈 Contribution Guidelines
