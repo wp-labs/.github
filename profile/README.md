@@ -11,8 +11,9 @@
 curl  -sSf https://get.warpparse.ai/setup.sh | bash
 ```
 Warpparse is faster than vector.
-![vector_wp_2](https://github.com/user-attachments/assets/976fc899-243e-49ef-b1c4-936210bbfb11)
 
+
+![wp-pk](https://github.com/user-attachments/assets/d6c5b858-0a05-45ea-bd28-4e40816ffe52)
 
 
 ##  🌈 Contribution Guidelines
