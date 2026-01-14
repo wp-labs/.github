@@ -12,8 +12,9 @@ curl  -sSf https://get.warpparse.ai/setup.sh | bash
 ```
 Warpparse is faster than vector.
 
-### Mac Mini4 MixLog   [Performance Report](https://example.warpparse.ai/benchmark/report/report_mac.html)
-![wp-pk2](https://github.com/user-attachments/assets/bbb26df0-6298-46cc-9c1c-0b45c0a5fab3)
+### Mac Mini4 FileToBlackHole   [Performance Report](https://example.warpparse.ai/benchmark/report/report_mac.html)
+
+![wp-pk3](https://github.com/user-attachments/assets/5fa94354-a023-4eef-bf5e-f0a47d783778)
 
 
 ##  🌈 Contribution Guidelines
