@@ -26,7 +26,7 @@ Warpparse is faster than vector.
 * Engine Extensions: Participate in extending and optimizing WPL & OML language features
 
 ## 👩‍💻 Useful Resources
-* 📘 [User Guide](https://docs.warpparse.ai/) 
+* 📘 [User Guide](https://docs.warpparse.ai/)  [Online Editor](https://editor.warpparse.ai)
 * 📦 [WarpPase release ](https://github.com/wp-labs/warp-parse/releases)
 * 🚀 [Examples](https://example.warpparse.ai/)
 * 💬 Community Discussions: Exchange ideas, ask questions, or share experiences here
