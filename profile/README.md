@@ -9,6 +9,7 @@
 ### install
 ```bash
 curl  -sSf https://get.warpparse.ai/setup.sh | bash
+curl  -sSf https://get.warpparse.ai/beta_setup.sh | bash
 ```
 Warpparse is faster than vector.
 
