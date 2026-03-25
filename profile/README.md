@@ -8,8 +8,14 @@
 
 ### install
 ```bash
-curl  -sSf https://get.warpparse.ai/setup.sh | bash
-curl  -sSf https://get.warpparse.ai/beta_setup.sh | bash
+## 稳定版
+curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- wparse
+## 验证版
+curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- wparse beta
+## 开发版
+curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- wparse alpha
+## install wp-skills
+curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- wp-skills
 ```
 Warpparse is faster than vector.
 
