@@ -16,6 +16,9 @@ curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- wparse beta
 curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- wparse alpha
 ## install wp-skills
 curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- wp-skills
+
+## install monitor-docker
+curl -sSf https://get.warpparse.ai/inst-x.sh | bash -s -- monitor-docker alpha
 ```
 Warpparse is faster than vector.
 
