@@ -26,16 +26,6 @@ Warpparse is faster than vector.
 
 ## 🧩 Key Crates
 
-| Component | Type | Description |
-|---|---|---|
-| **warp-parse** | Binary | Processing program and engineering toolset. The main binary that drives log ingestion, pipeline orchestration, and operational commands (check, run, bench, etc.). |
-| **wp-motor** | Crate | Core engine library. Provides the WPL runtime, rule compiler, pattern matching, and stream processing primitives consumed by `warp-parse`. |
-| **wp-connectors** | Crate | Stable, production-grade connector library for integrating with external systems (storage, messaging, observability). |
-| **wp-editor** | Binary | Browser-based rule editor with syntax highlighting, live preview, and assisted WPL authoring. |
-| **wp-monitor** | Binary | Engine processing monitor — tracks throughput, latency, error rates, and resource usage of running wparse instances. |
-| **wp-skills** | Skills | Security hardening and rule-writing skills package. Encodes best practices for writing safe, performant WPL rules. |
-| **warp-parse-exp** | Binary | Experimental engine binary. Incubates new WPL features, parser optimizations, and prototype pipelines before graduation to `warp-parse`. |
-| **wp-connectors-exp** | Crate | Experimental connector library. Sandbox for new connector ideas that may later stabilize into `wp-connectors`. |
 
 ### Crate Relationships
 
@@ -58,8 +48,6 @@ Warpparse is faster than vector.
 - **warp-parse** is the binary that integrates **wp-motor** (for parsing) and **wp-connectors** (for delivery) into a complete processing toolset. Rules are authored via **wp-skills**.
 - **warp-parse-exp** depends on **warp-parse** and layers experimental engine features on top; its connector surface maps to **wp-connectors-exp**.
 - **wp-editor** depends on **wp-motor** for WPL syntax validation and live preview. **wp-monitor** observes engine health at runtime.
-
-> `[bin]` = executable binary &nbsp;|&nbsp; `[lib]` = library crate &nbsp;|&nbsp; `[skills]` = skills package
 
 
 ## 👩‍💻 Useful Resources
